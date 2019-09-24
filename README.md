@@ -46,5 +46,7 @@ a | Aspect Ratio | False
 
 ### From Developer:
 Feel free to use it for any commercial or non-commercial use. 
+
 If you're stuck ping me!
+
 Contact me: abhiishek.srivastava@gmail.com
