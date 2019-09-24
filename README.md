@@ -14,7 +14,7 @@ pip install Pillow
 Rest of the packages are installed by default with Python.
 
 ## Usage
-> Make sure python is added to enviroment variable path
+> Make sure you've added python to your enviroment variable
 
 ### In CMD:
 ```
