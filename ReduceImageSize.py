@@ -20,7 +20,6 @@ def getImageData(image):
 def resizeImage(height,width,image):
     name, extension = getImageData(image)
     img = image.resize((height, width), Image.ANTIALIAS)
-    print("[INFO] Image Processed - "+image.filename)
     try:
         print(pathName+name+"."+extension)
         img.save(pathName+name+"."+extension)
