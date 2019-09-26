@@ -21,7 +21,7 @@ Rest of the packages are installed by default with Python.
 py pathToFolder/ReduceImageSize.py --help
 ```
 
-#### If you want to process a single image
+#### If you want to process a single image:
 ```
 py pathToFolder/ReduceImageSize.py -i D:/pathToImage -l 250 -b 460
 ```
@@ -32,9 +32,14 @@ This will process all the images in directory.
 py pathToFolder/ReduceImageSize.py -d D:/pathToFolder -l 250 -b 460
 ```
 
-#### If you want to maintain the aspect ratio based on height
+#### If you want to maintain the aspect ratio based on height:
 ```
 py pathToFolder/ReduceImageSize.py -i D:/pathToImage -l 250 -a True
+```
+
+#### If you want to save the images in specified directory:
+```
+py pathToFolder/ReduceImageSize.py -i D:/pathToImage -o D:/pathToOutputDirectory
 ```
 
 #### Default Values
