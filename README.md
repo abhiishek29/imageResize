@@ -54,4 +54,6 @@ Feel free to use it for any commercial or non-commercial use.
 
 If you're stuck ping me!
 
-Contact me: abhiishek.srivastava@gmail.com
+Contact: 
+abhiishek.srivastava@gmail.com
+krunaljai007@gmail.com
