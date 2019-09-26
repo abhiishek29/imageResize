@@ -58,4 +58,4 @@ Contact:
 
 abhiishek.srivastava@gmail.com
 
-krunaljai007@gmail.com
+krunal.jain@outlook.com
