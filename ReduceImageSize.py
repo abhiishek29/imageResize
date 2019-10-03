@@ -76,5 +76,5 @@ elif args["directory"]:
     for f in listdir(args["directory"]):
         processImage(args["directory"]+f)
 else:
-    logger.error("Please add Arguments!!")
+    logger.error("We love to have an argument;)")
     ap.print_help()
